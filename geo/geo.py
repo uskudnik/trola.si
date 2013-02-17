@@ -230,9 +230,15 @@ if __name__ == "__main__":
 
     # slovenija avto to astra
     print "Shortest path:"
-    shortest_paths = geo.from_to(16, 170)
+    shortest_paths = geo.from_to(43, 29)
     for path in shortest_paths:
-        print [geo.get_station(s)[2] for s in path]
+        oo = []
+        for s in path:
+            try:
+                oo += [geo.get_station(s)[2]]
+            except ValueError:
+                oo += [str(s)]
+        print " - ".join(oo)
 
     print "\n" * 2
     print "Find 10 nearest stations (with distance):"
