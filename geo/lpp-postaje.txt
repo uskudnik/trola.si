@@ -1,0 +1,1926 @@
+365
+103112
+7. septembra
+364
+103111
+7. septembra →
+492
+600022
+Ajdovščina →
+105
+503032
+Akademija
+104
+503031
+Akademija →
+133
+502013
+Ambrožev trg →
+134
+502014
+Ambrožev trg →
+165
+103032
+AMZS
+164
+103031
+AMZS →
+185
+804172
+Andreja Bitenca
+184
+804171
+Andreja Bitenca →
+276
+303062
+Archinetova
+275
+303061
+Archinetova →
+171
+101052
+Astra
+170
+101051
+Astra →
+30
+602052
+Aškerčeva
+31
+602051
+Aškerčeva →
+15
+803022
+Avtomontaža
+14
+803021
+Avtomontaža →
+485
+604031
+Avtosejem →
+420
+604021
+Barje →
+59
+600011
+Bavarski dvor (Korabar)
+58
+600012
+Bavarski dvor (Kozolec)
+448
+204142
+Belinka
+447
+204141
+Belinka →
+453
+204171
+Beričevo →
+590
+405052
+Besnica ambulanta
+589
+405051
+Besnica ambulanta →
+594
+405062
+Besnica kamnolom
+593
+405061
+Besnica kamnolom →
+584
+405022
+Besnica/Lj.
+583
+405021
+Besnica/Lj. →
+586
+405032
+Besnica/Lj.Š.
+585
+405031
+Besnica/Lj.Š. →
+199
+101032
+Bežigrad
+273
+101041
+Bežigrad
+198
+101031
+Bežigrad →
+531
+403072
+Bilečanska
+532
+403071
+Bilečanska →
+537
+404121
+Bizovik
+538
+404123
+Bizovik →
+588
+405042
+Blaževo
+587
+405041
+Blaževo →
+501
+704041
+Bokalce →
+70
+402042
+Bolnica
+69
+402041
+Bolnica →
+195
+802042
+Bolnica P. Držaja
+194
+802041
+Bolnica P. Držaja →
+180
+703102
+Bonifacija
+181
+703101
+Bonifacija →
+693
+103192
+Božičeva
+692
+103191
+Božičeva →
+206
+203182
+Bratislavska
+205
+203181
+Bratislavska →
+458
+803162
+Bratov Babnik
+457
+803161
+Bratov Babnik →
+122
+803132
+Bratov Učakar
+123
+803131
+Bratov Učakar →
+353
+101062
+Bratov Židan
+352
+101061
+Bratov Židan →
+328
+704022
+Brdo
+502
+704024
+Brdo
+329
+704021
+Brdo →
+556
+614022
+Brglezov štradon
+557
+614021
+Brglezov štradon →
+359
+103022
+Brinje
+358
+103021
+Brinje →
+429
+204121
+Brnčičeva →
+216
+804121
+Brod →
+258
+303072
+Brodarjev trg
+257
+303071
+Brodarjev trg →
+470
+203142
+BTC‐Emporium
+471
+203141
+BTC‐Emporium →
+472
+203132
+BTC‐Kolosej
+473
+203131
+BTC‐Kolosej →
+468
+203122
+BTC‐tržnica
+469
+203121
+BTC‐tržnica →
+466
+203112
+BTC‐uprava
+467
+203111
+BTC‐uprava →
+346
+602012
+Cankarjev dom
+347
+602011
+Cankarjev dom →
+560
+614042
+Capuder
+561
+614041
+Capuder →
+688
+103171
+Center Stožice ‐ smer S. obvoznica →
+689
+103173
+Center Stožice‐ smer Titova →
+682
+704162
+Cesta dveh cesarjev
+681
+704161
+Cesta dveh cesarjev →
+433
+104092
+Cesta na Brod
+432
+104091
+Cesta na Brod →
+282
+304092
+Cesta na Vevče
+281
+304091
+Cesta na Vevče →
+313
+404022
+Cesta v Bizovik
+312
+404021
+Cesta v Bizovik →
+680
+704152
+Cesta v Gorice
+679
+704151
+Cesta v Gorice →
+323
+404072
+Cesta v Zavoglje
+322
+404071
+Cesta v Zavoglje →
+338
+703022
+Cesta XV
+339
+703021
+Cesta XV →
+263
+304042
+Chengdujska
+279
+304041
+Chengdujska →
+541
+203201
+Clevelandska →
+189
+803112
+Čebelarska
+188
+803111
+Čebelarska →
+367
+103122
+Čerinova
+366
+103121
+Čerinova →
+148
+104161
+Črnuče →
+493
+600032
+Dalmatinova
+315
+404032
+Dobrunje
+314
+404031
+Dobrunje →
+612
+404142
+Dobrunje pod Urhom
+613
+404141
+Dobrunje pod Urhom →
+474
+703112
+Dolgi most
+182
+704011
+Dolgi most ‐ obračališče →
+524
+704012
+Dolgi most ‐ obračališče izstop
+475
+703111
+Dolgi most →
+526
+704052
+Dolgi most Rotar
+527
+704051
+Dolgi most Rotar →
+558
+614032
+Dornig
+559
+614031
+Dornig →
+28
+602022
+Drama
+29
+602021
+Drama →
+118
+803152
+Draveljska gmajna
+119
+803151
+Draveljska gmajna →
+11
+803042
+Dravlje
+10
+803041
+Dravlje →
+404
+802051
+Drenikova
+459
+802052
+Drenikova →
+439
+104062
+Elma
+438
+104061
+Elma →
+146
+403052
+Emona
+145
+403051
+Emona →
+545
+202082
+Flajšmanova
+55
+301012
+Friškovec
+54
+301011
+Friškovec →
+396
+304051
+Fužine →
+507
+603094
+Galjevica
+506
+603093
+Galjevica →
+392
+104221
+Gameljne →
+427
+102032
+Gasilska brigada
+426
+102031
+Gasilska brigada →
+38
+603022
+Gerbičeva
+39
+603021
+Gerbičeva →
+176
+703082
+Glince
+177
+703081
+Glince →
+138
+402052
+Glonarjeva
+137
+402051
+Glonarjeva →
+363
+103092
+Gorjančeva
+362
+103091
+Gorjančeva →
+136
+402062
+Gornje Poljane
+135
+402061
+Gornje Poljane →
+109
+504012
+Gornji Rudnik
+108
+504011
+Gornji Rudnik →
+97
+602102
+Gornji trg
+96
+602101
+Gornji trg →
+210
+204022
+GZL
+209
+204021
+GZL →
+34
+602032
+Hajdrihova
+35
+602031
+Hajdrihova →
+25
+700012
+Hotel Lev
+349
+101012
+Hranilniška
+348
+101011
+Hranilniška →
+296
+204062
+Hrastje
+295
+204061
+Hrastje →
+535
+404112
+Hruševska
+536
+404111
+Hruševska →
+311
+404012
+Hrušica
+310
+404011
+Hrušica →
+132
+402012
+Hrvatski trg
+131
+402011
+Hrvatski trg →
+130
+501012
+Ilirska
+129
+501011
+Ilirska →
+414
+603102
+Ilovica
+415
+603101
+Ilovica →
+227
+804162
+IMP
+226
+804161
+IMP →
+418
+604012
+Iški most
+419
+604011
+Iški most →
+505
+603122
+Ižanska
+504
+603121
+Ižanska →
+36
+603012
+Jadranska
+37
+603011
+Jadranska →
+336
+703032
+Jamnikarjeva
+337
+703031
+Jamnikarjeva →
+140
+403012
+Jana Husa
+139
+403011
+Jana Husa →
+84
+203092
+Jarše
+83
+203091
+Jarše →
+624
+425012
+Javor pri Sostrem K.
+625
+425011
+Javor pri Sostrem K. →
+582
+405012
+Javor/K.
+581
+405011
+Javor/K. →
+574
+745061
+Jezero →
+444
+104182
+Ježa
+443
+104181
+Ježa →
+156
+104032
+Ježica
+155
+104031
+Ježica →
+234
+104033
+Ježica →
+511
+504042
+Jurčkova
+510
+504041
+Jurčkova →
+74
+303022
+Kajuhova →
+369
+104022
+Kališnikov trg
+368
+104021
+Kališnikov trg →
+454
+803181
+Kamna Gorica →
+425
+102092
+Kardeljeva ploščad
+424
+102091
+Kardeljeva ploščad →
+78
+203051
+Kavčičeva
+77
+203052
+Kavčičeva →
+523
+600042
+Kersnikova
+19
+802022
+Kino Šiška
+18
+802021
+Kino Šiška →
+68
+402032
+Klinični center
+67
+402031
+Klinični center →
+124
+803082
+Kneza Koclja
+125
+803081
+Kneza Koclja →
+142
+403022
+Kodeljevo
+539
+403025
+Kodeljevo ‐ obračališče
+141
+403023
+Kodeljevo →
+251
+403021
+Kodeljevo →
+86
+203102
+Kodrova
+85
+203101
+Kodrova →
+244
+602082
+Kolezija
+245
+602081
+Kolezija →
+24
+700011
+Kolizej →
+57
+300012
+Kolodvor
+56
+300011
+Kolodvor →
+152
+104102
+Kolodvor Črnuče
+151
+104101
+Kolodvor Črnuče →
+13
+803032
+Kompas
+12
+803031
+Kompas →
+26
+601012
+Konzorcij
+42
+603042
+Koprska
+685
+603044
+Koprska
+43
+603041
+Koprska →
+120
+803142
+Koseze
+121
+803141
+Koseze →
+225
+804082
+Kosmačeva
+224
+804081
+Kosmačeva →
+575
+704102
+Kozarje
+576
+704101
+Kozarje →
+568
+614082
+Kozler
+569
+614081
+Kozler →
+319
+404052
+KPL
+318
+404051
+KPL →
+497
+501031
+Krekov trg
+496
+501032
+Krekov trg →
+40
+603032
+Krimska
+41
+603031
+Krimska →
+95
+602062
+Križanke
+94
+602061
+Križanke →
+325
+404082
+Križišče Sostro
+580
+404084
+Križišče Sostro
+324
+404081
+Križišče Sostro →
+579
+404083
+Križišče Sostro →
+533
+404102
+Krožna pot
+534
+404101
+Krožna pot →
+428
+101034
+Kržičeva
+416
+603112
+Lahova pot
+417
+603111
+Lahova pot →
+608
+406072
+Lanišče
+607
+406071
+Lanišče →
+660
+504092
+Lavrica
+661
+504091
+Lavrica →
+658
+504082
+Lavrica pri Malči
+659
+504081
+Lavrica pri Malči →
+208
+204012
+Leskoškova
+207
+204011
+Leskoškova →
+214
+204042
+Letališka
+213
+204041
+Letališka →
+215
+204051
+Letališka‐obračališče →
+566
+614072
+Lipe
+567
+614071
+Lipe →
+92
+803053
+Litostroj →
+233
+803052
+Litostrojska
+232
+803051
+Litostrojska →
+412
+603092
+Livada
+413
+603091
+Livada →
+578
+304102
+Lj. Vevče Papirnica
+577
+304103
+Lj. Vevče Papirnica →
+610
+404132
+Ljubljana Dobrunje
+611
+404131
+Ljubljana Dobrunje →
+614
+404152
+Ljubljana Zadvor
+615
+404151
+Ljubljana Zadvor →
+231
+803062
+Ljubljanske brigade
+230
+803061
+Ljubljanske brigade →
+636
+415061
+Mali Lipoglav →
+686
+103162
+Maroltova
+687
+103161
+Maroltova →
+217
+804131
+Martinova →
+375
+804072
+Medno
+374
+804071
+Medno →
+377
+805012
+Medvoška a.p.
+376
+805011
+Medvoška a.p. →
+167
+102082
+Mercator
+166
+102081
+Mercator →
+44
+603051
+Mestni log →
+509
+503052
+Mihov štradon
+508
+503051
+Mihov štradon →
+246
+602072
+Mirje
+247
+602071
+Mirje →
+401
+102062
+Mostovna
+400
+102061
+Mostovna →
+240
+603062
+Murgle
+241
+603061
+Murgle →
+114
+804212
+Murkova
+115
+804211
+Murkova →
+529
+704062
+Na Gmajnici
+530
+704061
+Na Gmajnici →
+197
+802032
+Na jami
+196
+802031
+Na jami →
+223
+804092
+Na klancu
+222
+804091
+Na klancu →
+446
+204132
+Nadgorica
+445
+204131
+Nadgorica →
+517
+100012
+Navje
+91
+203171
+Nove Jarše →
+89
+203161
+Nove Jarše‐Šmartinska →
+421
+103081
+Nove Stožice →
+407
+203072
+Nove Žale
+406
+203071
+Nove Žale →
+381
+805032
+Novo naselje
+380
+805031
+Novo naselje →
+270
+204101
+Novo Polje →
+271
+204102
+Novo Polje →
+513
+504052
+NS Rudnik
+512
+504051
+NS Rudnik →
+514
+504061
+NS Rudnik →
+218
+804111
+Ob daljnovodu
+219
+804112
+Ob daljnovodu
+378
+805021
+Ob igrišču →
+250
+303032
+Ob sotočju
+528
+744021
+Obračališče Vnanje Gorice →
+435
+104082
+Obrtna cona
+434
+104081
+Obrtna cona →
+116
+804202
+Omersova
+117
+804201
+Omersova →
+503
+503014
+Orlova
+278
+304022
+Osenjakova
+277
+304021
+Osenjakova →
+484
+104152
+OŠ Maksa Pečarja
+483
+104151
+OŠ Maksa Pečarja →
+616
+404162
+OŠ Sostro
+617
+404161
+OŠ Sostro →
+632
+415052
+Pance K.
+633
+415051
+Pance K. →
+351
+101022
+Parmova
+350
+101021
+Parmova →
+107
+503042
+Peruzzijeva
+106
+503041
+Peruzzijeva →
+284
+304112
+Petrol
+283
+304111
+Petrol →
+554
+614012
+Plečnikova cerkev
+555
+614011
+Plečnikova cerkev →
+187
+803122
+Plešičeva
+186
+803121
+Plešičeva →
+306
+403032
+Pod Golovcem
+305
+403031
+Pod Golovcem →
+656
+504072
+Pod Hribom
+657
+504071
+Pod Hribom →
+488
+804192
+Pod Kamno Gorico
+489
+804191
+Pod Kamno Gorico →
+344
+702012
+Pod Rožnikom
+345
+702011
+Pod Rožnikom →
+5
+804032
+Podgora
+4
+804031
+Podgora →
+620
+415022
+Podlipoglav
+621
+415021
+Podlipoglav →
+355
+102052
+Podmilščakova
+354
+102051
+Podmilščakova →
+332
+703052
+Podmornica
+333
+703051
+Podmornica →
+572
+745052
+Podpeč
+573
+745051
+Podpeč →
+113
+804221
+Podutik →
+361
+103062
+Pohorskega bataljona
+360
+103061
+Pohorskega bataljona →
+47
+203012
+Pokopališka
+46
+203011
+Pokopališka →
+478
+104122
+Polanškova
+477
+104121
+Polanškova →
+248
+402022
+Poliklinika
+249
+402021
+Poliklinika →
+66
+502012
+Poljanska
+65
+502011
+Poljanska →
+280
+304072
+Polje
+303
+304073
+Polje
+266
+304071
+Polje →
+267
+304074
+Polje →
+268
+304081
+Polje‐kolodvor →
+269
+304082
+Polje‐kolodvor →
+27
+601011
+Pošta →
+317
+404042
+Pošta Dobrunje
+316
+404041
+Pošta Dobrunje →
+274
+303052
+Pot na Fužine
+256
+303051
+Pot na Fužine →
+238
+603072
+Pot na Rakovo jelšo
+239
+603071
+Pot na Rakovo jelšo →
+482
+104142
+Pot v Hrastovec
+481
+104141
+Pot v Hrastovec →
+480
+104132
+Pot v Smrečje
+479
+104131
+Pot v Smrečje →
+260
+304012
+Preglov trg
+259
+304011
+Preglov trg →
+201
+202022
+Prekmurska
+200
+202021
+Prekmurska →
+330
+703062
+Preval
+331
+703061
+Preval →
+634
+415072
+Pri Dogonivar
+635
+415071
+Pri Dogonivar →
+622
+415092
+Pri Dolencu
+623
+415091
+Pri Dolencu →
+525
+704081
+Pri Poku →
+630
+415082
+Primožev ovinek
+631
+415081
+Primožev ovinek →
+476
+104113
+Primožičeva
+99
+602112
+Privoz
+98
+602111
+Privoz →
+7
+804022
+Prušnikova
+6
+804021
+Prušnikova →
+183
+804181
+Pržan →
+602
+406042
+Pržganje Š.
+601
+406041
+Pržganje Š. →
+600
+406032
+Pržganje Š. K.
+599
+406031
+Pržganje Š. K. →
+423
+103042
+Puhova
+422
+103041
+Puhova →
+540
+704072
+Radna
+103
+503022
+Rakovnik
+102
+503021
+Rakovnik →
+309
+403062
+Rast
+308
+403061
+Rast →
+391
+104212
+Rašica
+390
+104211
+Rašica →
+173
+100022
+Razstavišče
+172
+100021
+Razstavišče →
+452
+204162
+Reaktor
+451
+204161
+Reaktor →
+17
+803014
+Remiza
+212
+204032
+Rog
+211
+204031
+Rog →
+150
+104112
+Rogovilc
+149
+104111
+Rogovilc →
+465
+502022
+Roška
+500
+502021
+Roška →
+80
+203021
+Rožičeva
+79
+203022
+Rožičeva →
+340
+703012
+Rožna dolina
+341
+703011
+Rožna dolina →
+127
+500011
+RTV →
+112
+504031
+Rudnik →
+676
+504024
+Rudnik I
+675
+504035
+Rudnik I →
+262
+304032
+Rusjanov trg
+261
+304031
+Rusjanov trg →
+158
+103132
+Ruski car
+157
+103131
+Ruski car →
+564
+614062
+Rutar
+565
+614061
+Rutar →
+618
+415012
+Sadinja vas
+619
+415011
+Sadinja vas →
+460
+102011
+Samova
+461
+102012
+Samova →
+291
+204201
+Saturnus →
+154
+104052
+Sava
+544
+104054
+Sava
+153
+104051
+Sava →
+370
+104011
+Savlje →
+203
+202032
+Savske stolpnice
+202
+202031
+Savske stolpnice →
+51
+202042
+Savsko naselje
+50
+202041
+Savsko naselje →
+628
+415042
+Selo pri Pancah K.
+629
+415041
+Selo pri Pancah K. →
+286
+304132
+Silos
+285
+304131
+Silos →
+93
+803012
+Slovenija avto
+16
+803011
+Slovenija avto →
+431
+204112
+Slovenijales
+430
+204111
+Slovenijales →
+163
+103072
+Smelt
+162
+103071
+Smelt →
+604
+406052
+Smrekarjevo
+603
+406051
+Smrekarjevo →
+298
+204072
+Sneberje
+297
+204071
+Sneberje →
+570
+614092
+Snoj
+571
+614091
+Snoj →
+204
+202071
+soča
+637
+404092
+Sostro
+326
+404091
+Sostro →
+638
+404093
+Sostro →
+456
+803172
+Spar
+455
+803171
+Spar →
+111
+504022
+Spodnji Rudnik
+110
+504021
+Spodnji Rudnik →
+294
+202044
+Središka
+293
+202043
+Središka →
+169
+102042
+Stadion
+168
+102041
+Stadion →
+174
+703072
+Stan in dom
+175
+703071
+Stan in dom →
+373
+804062
+Stanežiče
+372
+804061
+Stanežiče →
+21
+802012
+Stara cerkev
+20
+802011
+Stara cerkev →
+160
+103102
+Stožice
+159
+103101
+Stožice →
+101
+503012
+Strelišče
+100
+503011
+Strelišče →
+499
+502032
+Streliška
+498
+502031
+Streliška →
+265
+304062
+Studenec
+264
+304061
+Studenec →
+596
+406012
+Šemnikar
+595
+406011
+Šemnikar →
+450
+204152
+Šentjakob
+449
+204151
+Šentjakob →
+3
+804042
+Šentvid
+2
+804041
+Šentvid →
+126
+803016
+Šišenska
+667
+515013
+Škofljica →
+662
+504102
+Škofljica Petkovšek
+663
+504101
+Škofljica Petkovšek →
+666
+515011
+Škofljica špica →
+664
+504112
+Škofljica žaga
+665
+504111
+Škofljica žaga →
+437
+104072
+Šlandrova
+436
+104071
+Šlandrova →
+388
+104192
+Šmartno
+387
+104191
+Šmartno →
+82
+203042
+Šola Jarše
+462
+203044
+Šola Jarše
+81
+203041
+Šola Jarše →
+543
+744012
+Šolska
+542
+744011
+Šolska →
+144
+403042
+Štepanja vas
+143
+403043
+Štepanja vas →
+307
+403041
+Štepanja vas →
+147
+303041
+Štepanjsko naselje →
+252
+303043
+Štepanjsko naselje →
+342
+702022
+Študentsko naselje
+343
+702021
+Študentsko naselje →
+221
+804102
+Tabor
+220
+804101
+Tabor →
+386
+804152
+Tacen
+385
+804151
+Tacen →
+384
+804142
+Tacenski most
+383
+804141
+Tacenski most →
+684
+604052
+Tbilisijska
+683
+604051
+Tbilisijska →
+229
+803072
+Tehnounion
+228
+803071
+Tehnounion →
+403
+802062
+Tiki
+402
+802061
+Tiki →
+690
+103182
+Titova
+691
+103181
+Titova →
+23
+801012
+Tivoli
+22
+801011
+Tivoli →
+519
+701011
+Tivolska
+518
+701012
+Tivolska →
+32
+602042
+Tobačna
+33
+602041
+Tobačna →
+405
+203081
+Tomačevo →
+409
+203032
+Tomačevska
+408
+203031
+Tomačevska →
+399
+103012
+Toplarna
+398
+103011
+Toplarna →
+411
+102022
+Topniška
+410
+102021
+Topniška →
+397
+103051
+Tovarna Lek →
+75
+203062
+Tovorni kolodvor →
+76
+203061
+Tovorni kolodvor →
+9
+804012
+Trata
+8
+804011
+Trata →
+598
+406022
+Trebeljevo
+597
+406021
+Trebeljevo →
+235
+602121
+Trnovo →
+191
+803102
+Tržnica Koseze
+190
+803101
+Tržnica Koseze →
+72
+303012
+Tržnica Moste
+71
+303011
+Tržnica Moste →
+609
+406081
+Tuji Grm →
+128
+500012
+Turist
+626
+415032
+Veliki Lipoglav
+627
+415031
+Veliki Lipoglav →
+236
+603082
+Veliki štradon
+237
+603081
+Veliki štradon →
+304
+304101
+Vevče →
+53
+202012
+Viadukt
+52
+202011
+Viadukt →
+178
+703092
+Vič
+179
+703091
+Vič →
+334
+703042
+Viško polje
+335
+703041
+Viško polje →
+1
+804051
+Vižmarje →
+357
+102072
+Vodovodna
+356
+102071
+Vodovodna →
+606
+406062
+Volavlje
+605
+406061
+Volavlje →
+521
+700022
+Vošnjakova
+522
+700021
+Vošnjakova
+327
+704031
+Vrhovci →
+394
+203192
+Yulon
+393
+203191
+Yulon →
+301
+204082
+Zadobrova
+272
+204081
+Zadobrova →
+302
+204083
+Zadobrova →
+288
+204182
+Zadružni dom
+287
+204181
+Zadružni dom →
+321
+404062
+Zadvor
+320
+404061
+Zadvor →
+292
+204211
+Zalog →
+255
+303024
+Zaloška
+73
+303021
+Zaloška →
+442
+104172
+Zasavska
+441
+104171
+Zasavska →
+45
+202051
+Zelena jama →
+290
+204192
+Zeleni gaj
+289
+204191
+Zeleni gaj →
+592
+405072
+Zg. Besnica
+591
+405071
+Zg. Besnica →
+389
+104202
+Zg. Gameljne
+490
+104201
+Zg. Gameljne →
+678
+704142
+Zgonji log
+677
+704141
+Zgonji log →
+193
+803092
+Zgornja Šiška
+192
+803091
+Zgornja Šiška →
+562
+614052
+Zidarjevec
+563
+614051
+Zidarjevec →
+242
+602092
+Ziherlova
+243
+602091
+Ziherlova →
+520
+602093
+Ziherlova →
+494
+501022
+Zmajski most
+495
+501021
+Zmajski most →
+49
+202062
+Žale
+48
+202061
+Žale →
+486
+201011
+Železna →
+88
+203152
+Žito
+87
+203151
+Žito →
+516
+703122
+Živalski vrt
+491
+703131
+Živalski vrt →
+515
+703121
+Živalski vrt →

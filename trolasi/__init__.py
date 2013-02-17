@@ -284,4 +284,4 @@ if 'gunicorn' in os.environ.get('SERVER_SOFTWARE', ''):  # pragma: nocover
     sentry.init_app(app)
 
 if __name__ == "__main__":  # pragma: nocover
-    app.run(debug=True)
+    app.run(debug=True, host='0.0.0.0', port=5000)
