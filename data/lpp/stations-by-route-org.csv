@@ -1,0 +1,1234 @@
+﻿----------------------------------------
+1,Mestni log - Vižmarje,1,Vižmarje - Mestni log
+604031,Mestni log,804051,Vižmarje
+603141,Tbilisijska,804041,Šentvid
+603041,Koprska,804031,Podgora
+603031,Krimska,804021,Prušnikova
+603021,Gerbičeva,804011,Trata
+603011,Jadranska,803041,Dravlje
+602031,Hajdrihova,803031,Kompas
+602041,Tobačna,803021,Avtomontaža
+602051,Aškerčeva,803011,Slovenija avto
+602021,Drama,802021,Kino Šiška
+601011,Pošta,802011,Stara cerkev
+700012,Hotel Lev,801011,Tivoli
+801012,Tivoli,700011,Kolizej
+802012,Stara cerkev,600022,Ajdovščina
+802022,Kino Šiška,601012,Konzorcij
+803014,Remiza,602022,Drama
+803022,Avtomontaža,602052,Aškerčeva
+803032,Kompas,602042,Tobačna
+803042,Dravlje,602032,Hajdrihova
+804012,Trata,603012,Jadranska
+804022,Prušnikova,603022,Gerbičeva
+804032,Podgora,603032,Krimska
+804042,Šentvid,603044,Koprska
+804051,Vižmarje,603142,Tbilisijska
+,,604031,Mestni log
+----------------------------------------
+N1,Bavarski dvor - Brod,N1,Brod - Bavarski dvor
+600012,Bavarski dvor (Kozolec),804121,Brod
+700012,Hotel Lev,804131,Martinova
+801012,Tivoli,804101,Tabor
+802012,Stara cerkev,804091,Na klancu
+802022,Kino Šiška,804081,Kosmačeva
+803014,Remiza,804051,Vižmarje
+803022,Avtomontaža,804041,Šentvid
+803032,Kompas,804031,Podgora
+803042,Dravlje,804021,Prušnikova
+804012,Trata,804011,Trata
+804022,Prušnikova,803041,Dravlje
+804032,Podgora,803031,Kompas
+804042,Šentvid,803021,Avtomontaža
+804051,Vižmarje,803011,Slovenija avto
+804082,Kosmačeva,802021,Kino Šiška
+804092,Na klancu,802011,Stara cerkev
+804102,Tabor,801011,Tivoli
+804112,Ob daljnovodu,600012,Bavarski dvor (Kozolec)
+804121,Brod,,
+----------------------------------------
+1S,Gameljne - Mestni log,1S,Mestni log - Gameljne
+104221,Gameljne,604031,Mestni log
+104211,Rašica,603141,Tbilisijska
+104201,Zg. Gameljne,603041,Koprska
+104191,Šmartno,603031,Krimska
+804151,Tacen,603021,Gerbičeva
+804141,Tacenski most,603011,Jadranska
+804111,Ob daljnovodu,602031,Hajdrihova
+804101,Tabor,602041,Tobačna
+804091,Na klancu,602051,Aškerčeva
+804081,Kosmačeva,602021,Drama
+804051,Vižmarje,601011,Pošta
+804041,Šentvid,700012,Hotel Lev
+804031,Podgora,801012,Tivoli
+804021,Prušnikova,802012,Stara cerkev
+804011,Trata,802022,Kino Šiška
+803041,Dravlje,803014,Remiza
+803031,Kompas,803022,Avtomontaža
+803021,Avtomontaža,803032,Kompas
+803011,Slovenija avto,803042,Dravlje
+802021,Kino Šiška,804012,Trata
+802011,Stara cerkev,804022,Prušnikova
+801011,Tivoli,804032,Podgora
+700011,Kolizej,804042,Šentvid
+600022,Ajdovščina,804051,Vižmarje
+601012,Konzorcij,804082,Kosmačeva
+602022,Drama,804092,Na klancu
+602052,Aškerčeva,804102,Tabor
+602042,Tobačna,804112,Ob daljnovodu
+602032,Hajdrihova,804142,Tacenski most
+603012,Jadranska,804152,Tacen
+603022,Gerbičeva,104192,Šmartno
+603032,Krimska,104202,Zg. Gameljne
+603044,Koprska,104212,Rašica
+603142,Tbilisijska,104221,Gameljne
+604031,Mestni log,,
+----------------------------------------
+2,Nove Jarše - Zelena Jama,2,Zelena Jama - Nove Jarše
+203171,Nove Jarše,202051,Zelena jama
+203161,Nove Jarše-Šmartinska,203011,Pokopališka
+203151,Žito,202061,Žale
+203101,Kodrova,202041,Savsko naselje
+203091,Jarše,202011,Viadukt
+203041,Šola Jarše,301011,Friškovec
+203022,Rožičeva,300011,Kolodvor
+203052,Kavčičeva,600012,Bavarski dvor (Kozolec)
+203062,Tovorni kolodvor,600022,Ajdovščina
+303021,Zaloška,601012,Konzorcij
+303011,Tržnica Moste,602022,Drama
+402041,Bolnica,602062,Križanke
+402031,Klinični center,602102,Gornji trg
+502013,Ambrožev trg,501031,Krekov trg
+502011,Poljanska,502012,Poljanska
+501032,Krekov trg,502014,Ambrožev trg
+602101,Gornji trg,502024,Roška
+602061,Križanke,402032,Klinični center
+602021,Drama,402042,Bolnica
+601011,Pošta,303012,Tržnica Moste
+600011,Bavarski dvor (Korabar),303022,Kajuhova
+300012,Kolodvor,203061,Tovorni kolodvor
+301012,Friškovec,203051,Kavčičeva
+202012,Viadukt,203021,Rožičeva
+202042,Savsko naselje,203042,Šola Jarše
+202062,Žale,203092,Jarše
+203012,Pokopališka,203102,Kodrova
+202051,Zelena jama,203152, "Žito"
+,,203171, "Nove Jarše"
+----------------------------------------
+3,Litostroj - Rudnik,3,Rudnik - Litostroj
+103201,Litostroj,504031,Rudnik
+803211,Kovinarska,504033,Rudnik
+803051,Litostrojska,504021,Spodnji Rudnik
+803011,Slovenija avto,504011,Gornji Rudnik
+802021,Kino Šiška,503041,Peruzzijeva
+802011,Stara cerkev,503031,Akademija
+801011,Tivoli,503021,Rakovnik
+700011,Kolizej,503011,Strelišče
+600022,Ajdovščina,602111,Privoz
+601012,Konzorcij,602101,Gornji trg
+602022,Drama,602061,Križanke
+602062,Križanke,602021,Drama
+602102,Gornji trg,601011,Pošta
+602112,Privoz,700012,Hotel Lev
+503012,Strelišče,801012,Tivoli
+503022,Rakovnik,802012,Stara cerkev
+503032,Akademija,802022,Kino Šiška
+503042,Peruzzijeva,803012,Slovenija avto
+504012,Gornji Rudnik,803052,Litostrojska
+504022,Spodnji Rudnik,803212,Kovinarska
+504031,Rudnik,103201,Litostroj
+----------------------------------------
+3B,Litostroj - Škofljica,3B,Škofljica - Litostroj
+103201,Litostroj,515013,Škofljica obračališče
+803211,Kovinarska,515011,Škofljica špica
+803051,Litostrojska,504111,Škofljica žaga
+803011,Slovenija avto,504101,Škofljica Petkovšek
+802021,Kino Šiška,504091,Lavrica
+802011,Stara cerkev,504081,Lavrica pri Malči
+801011,Tivoli,504071,Pod Hribom
+700011,Kolizej,504033,Rudnik
+600022,Ajdovščina,504021,Spodnji Rudnik
+601012,Konzorcij,504011,Gornji Rudnik
+602022,Drama,503041,Peruzzijeva
+602062,Križanke,503031,Akademija
+602102,Gornji trg,503021,Rakovnik
+602112,Privoz,503011,Strelišče
+503012,Strelišče,602111,Privoz
+503022,Rakovnik,602101,Gornji trg
+503032,Akademija,602061,Križanke
+503042,Peruzzijeva,602021,Drama
+504012,Gornji Rudnik,601011,Pošta
+504022,Spodnji Rudnik,700012,Hotel Lev
+504032,Rudnik,801012,Tivoli
+504072,Pod Hribom,802012,Stara cerkev
+504082,Lavrica pri Malči,802022,Kino Šiška
+504092,Lavrica,803012,Slovenija avto
+504102,Škofljica Petkovšek,803052,Litostrojska
+504112,Škofljica žaga,803212,Kovinarska
+515013,Škofljica obračališče,103201,Litostroj
+----------------------------------------
+N3,Bavarski dvor - Rudnik,N3,Rudnik - Bavarski dvor
+600012,Bavarski dvor (Kozolec),504031,Rudnik
+600022,Ajdovščina,504033,Rudnik
+601012,Konzorcij,504021,Spodnji Rudnik
+602022,Drama,504011,Gornji Rudnik
+602062,Križanke,503041,Peruzzijeva
+602102,Gornji trg,503031,Akademija
+602112,Privoz,503021,Rakovnik
+503012,Strelišče,503011,Strelišče
+503022,Rakovnik,602111,Privoz
+503032,Akademija,602101,Gornji trg
+503042,Peruzzijeva,602061,Križanke
+504012,Gornji Rudnik,602021,Drama
+504022,Spodnji Rudnik,601011,Pošta
+504031,Rudnik,700012,Hotel Lev
+,,600012,Bavarski dvor (Kozolec)
+----------------------------------------
+N3B,Bavarski dvor - Škofljica,N3B,Škofljica - Bavarski dvor
+600012,Bavarski dvor (Kozolec),515013,Škofljica obračališče
+600022,Ajdovščina,515011,Škofljica špica
+601012,Konzorcij,504111,Škofljica žaga
+602022,Drama,504101,Škofljica Petkovšek
+602062,Križanke,504091,Lavrica
+602102,Gornji trg,504081,Lavrica pri Malči
+602112,Privoz,504071,Pod Hribom
+503012,Strelišče,504033,Rudnik
+503022,Rakovnik,504021,Spodnji Rudnik
+503032,Akademija,504011,Gornji Rudnik
+503042,Peruzzijeva,503041,Peruzzijeva
+504012,Gornji Rudnik,503031,Akademija
+504022,Spodnji Rudnik,503021,Rakovnik
+504032,Rudnik,503011,Strelišče
+504072,Pod Hribom,602111,Privoz
+504082,Lavrica pri Malči,602101,Gornji trg
+504092,Lavrica,602061,Križanke
+504102,Škofljica Petkovšek,602021,Drama
+504112,Škofljica žaga,601011,Pošta
+515013,Škofljica obračališče,700012,Hotel Lev
+,,600012,Bavarski dvor (Kozolec)
+----------------------------------------
+3G,Bežigrad - Grosuplje,3G,Grosuplje - Bežigrad
+201011,Železna,505141,Grosuplje
+101031,Bežigrad,505132,Adamičev spomenik
+100021,Razstavišče,505152,Ljubljanska
+600012,Bavarski dvor (Kozolec),505162,OŠ Brinje
+600022,Ajdovščina,505172,Kongo
+601012,Konzorcij,505182,Dom starejših
+602022,Drama,505192,Dom obrtnikov
+602062,Križanke,505152,Ljubljanska
+602102,Gornji trg,505122,Vodičar
+503012,Strelišče,536022,Krpan
+503022,Rakovnik,536012,Mrzle njive
+504022,Spodnji Rudnik,505141,Grosuplje
+504032,Rudnik,505111,Pod gozdom
+504072,Pod Hribom,505101,Stara pošta
+504082,Lavrica pri Malči,505091,Brvace
+504092,Lavrica,505081,Cikava
+504102,Škofljica Petkovšek,505071,Sap
+504112,Škofljica žaga,505061,Šmarje
+515012,Škofljica,505051,Razdrto
+505012,Škofljica Javornik,505041,Mali vrh
+505022,Reber pri Škofljici,505031,Špilar
+505032,Špilar,505021,Reber pri Škofljici
+505042,Mali vrh,505011,Škofljica Javornik
+505052,Razdrto,515011,Škofljica špica
+505062,Šmarje,504111,Škofljica žaga
+505072,Sap,504101,Škofljica Petkovšek
+505082,Cikava,504091,Lavrica
+505092,Brvace,504081,Lavrica pri Malči
+505102,Stara pošta,504071,Pod Hribom
+505112,Pod gozdom,504033,Rudnik
+505132,Adamičev spomenik,504021,Spodnji Rudnik
+505152,Ljubljanska,503021,Rakovnik
+505162,OŠ Brinje,503011,Strelišče
+505172,Kongo,602101,Gornji trg
+505182,Dom starejših,602061,Križanke
+505192,Dom obrtnikov,602021,Drama
+505122,Vodičar,601011,Pošta
+536022,Krpan,600011,Bavarski dvor (Korabar)
+536012,Mrzle njive,100012,Navje
+505141,Grosuplje,201011,Železna
+----------------------------------------
+5,Podutik - Štepanjsko naselje,5,Štepanjsko naselje - Podutik
+804221,Podutik,303041,Štepanjsko naselje
+804211,Murkova,403051,Emona
+804201,Omersova,403043,Štepanja vas
+804191,Pod Kamno Gorico,403023,Kodeljevo
+803151,Draveljska gmajna,403011,Jana Husa
+803141,Koseze,402051,Glonarjeva
+803131,Bratov Učakar,402061,Gornje Poljane
+803081,Kneza Koclja,502013,Ambrožev trg
+803011,Slovenija avto,402011,Hrvatski trg
+802021,Kino Šiška,501011,Ilirska
+802011,Stara cerkev,500011,Tavčarjeva
+801011,Tivoli,700012,Hotel Lev
+700011,Kolizej,801012,Tivoli
+600032,Dalmatinova,802012,Stara cerkev
+500012,Turist,802022,Kino Šiška
+501012,Ilirska,803016,Šišenska
+402012,Hrvatski trg,803082,Kneza Koclja
+502014,Ambrožev trg,803132,Bratov Učakar
+502022,Roška,803142,Koseze
+402062,Gornje Poljane,803152,Draveljska gmajna
+402052,Glonarjeva,804202,Omersova
+403012,Jana Husa,804212,Murkova
+403022,Kodeljevo,804221,Podutik
+403042,Štepanja vas,,
+403052,Emona,,
+303041,Štepanjsko naselje,,
+----------------------------------------
+N5,Podutik - Štepanjsko naselje,N5,Štepanjsko naselje - Podutik
+804221,Podutik,303041,Štepanjsko naselje
+804211,Murkova,403051,Emona
+804201,Omersova,403043,Štepanja vas
+804191,Pod Kamno Gorico,403023,Kodeljevo
+803151,Draveljska gmajna,403011,Jana Husa
+803141,Koseze,402051,Glonarjeva
+803131,Bratov Učakar,402061,Gornje Poljane
+803081,Kneza Koclja,502013,Ambrožev trg
+803011,Slovenija avto,402011,Hrvatski trg
+802021,Kino Šiška,501011,Ilirska
+802011,Stara cerkev,500011,Tavčarjeva
+801011,Tivoli,700012,Hotel Lev
+700011,Kolizej,600012,Bavarski dvor (Kozolec)
+600011,Bavarski dvor (Korabar),700012,Hotel Lev
+700011,Kolizej,801012,Tivoli
+600032,Dalmatinova,802012,Stara cerkev
+500012,Turist,802022,Kino Šiška
+501012,Ilirska,803016,Šišenska
+402012,Hrvatski trg,803082,Kneza Koclja
+502014,Ambrožev trg,803132,Bratov Učakar
+502022,Roška,803142,Koseze
+402062,Gornje Poljane,803152,Draveljska gmajna
+402052,Glonarjeva,804202,Omersova
+403012,Jana Husa,804212,Murkova
+403022,Kodeljevo,804221,Podutik
+403042,Štepanja vas,,
+403052,Emona,,
+303041,Štepanjsko naselje,,
+----------------------------------------
+6,Črnuče - Dolgi most,6,Dolgi most - Črnuče
+104161,Črnuče,704011,Dolgi most - obračališče
+104111,Rogovile,704171,Tržaška
+104101,Kolodvor Črnuče,703111,Dolgi most
+104051,Sava,703101,Bonifacija
+104031,Ježica,703091,Vič
+103131,Ruski car,703081,Glince
+103101,Stožice,703071,Stan in dom
+103071,Smelt,602031,Hajdrihova
+103031,AMZS,602041,Tobačna
+102081,Mercator,602051,Aškerčeva
+102041,Stadion,602021,Drama
+101051,Astra,601011,Pošta
+100021,Razstavišče,600011,Bavarski dvor (Korabar)
+600012,Bavarski dvor (Kozolec),100022,Razstavišče
+600022,Ajdovščina,101052,Astra
+601012,Konzorcij,102042,Stadion
+602022,Drama,102082,Mercator
+602052,Aškerčeva,103032,AMZS
+602042,Tobačna,103072,Smelt
+602032,Hajdrihova,103102,Stožice
+703072,Stan in dom,103132,Ruski car
+703082,Glince,104032,Ježica
+703092,Vič,104052,Sava
+703102,Bonifacija,104102,Kolodvor Črnuče
+703112,Dolgi most,104112,Rogovile
+704172,T ržaška,104161,Črnuče
+704012,Dolgi most - obračališče izstop,,
+704011,Dolgi most - obračališče,,
+----------------------------------------
+6B,Črnuče - Notranje Gorice,6B,Notranje Gorice - Črnuče
+104161,Črnuče,745041,Notranje Gorice
+104111,Rogovile,745031,Mostiček
+104101,Kolodvor Črnuče,745021,Erbežnik
+104051,Sava,744021,Japelj
+104031,Ježica,744011,Šolska
+103131,Ruski car,704081,Pri Poku
+103101,Stožice,704061,Na Gmajnici
+103071,Smelt,704101,Kozarje
+103031,AMZS,704051,Dolgi most Rotar
+102081,Mercator,704171,Tržaška
+102041,Stadion,703111,Dolgi most
+101051,Astra,703101,Bonifacija
+100021,Razstavišče,703091,Vič
+600012,Bavarski dvor (Kozolec),703081,Glince
+600022,Ajdovščina,703071,Stan in dom
+601012,Konzorcij,602031,Hajdrihova
+602022,Drama,602041,Tobačna
+602052,Aškerčeva,602051,Aškerčeva
+602042,Tobačna,602021,Drama
+602032,Hajdrihova,601011,Pošta
+703072,Stan in dom,600011,Bavarski dvor (Korabar)
+703082,Glince,100022,Razstavišče
+703092,Vič,101052,Astra
+703102,Bonifacija,102042,Stadion
+703112,Dolgi most,102082,Mercator
+704172,Tržaška,103032,AMZS
+704052,Dolgi most Rotar,103072,Smelt
+704102,Kozarje,103102,Stožice
+704062,Na Gmajnici,103132,Ruski car
+704072,Radna,104032,Ježica
+744012,Šolska,104052,Sava
+744022,Japelj,104102,Kolodvor Črnuče
+745022,Erbežnik,104112,Rogovile
+745032,Mostiček,104161,Črnuče
+745041,Notranje Gorice,,
+----------------------------------------
+7,Nove Jarše - Pržan,7,Pržan - Nove Jarše
+203171,Nove Jarše,804181,Pržan
+203161,Nove Jarše-Šmartinska,804171,Andreja Bitenca
+203151,Žito,803121,Plešičeva
+203101,Kodrova,803111,Čebelarska
+203091,Jarše,803101,T ržnica Koseze
+203041,Šola Jarše,803091,Zgornja Šiška
+203011,Pokopališka,802041,Bolnica P. Držaja
+202061,Žale,802031,Na jami
+202031,Savske stolpnice,802011,Stara cerkev
+202021,Prekmurska,801011,Tivoli
+101031,Bežigrad,700011,Kolizej
+100021,Razstavišče,600011,Bavarski dvor (Korabar)
+600012,Bavarski dvor (Kozolec),100022,Razstavišče
+700012,Hotel Lev,101032,Bežigrad
+801012,Tivoli,202022,Prekmurska
+802012,Stara cerkev,202032,Savske stolpnice
+802032,Na jami,202062,Žale
+802042,Bolnica P. Držaja,203012,Pokopališka
+803092,Zgornja Šiška,203042,Šola Jarše
+803102,Tržnica Koseze,203092,Jarše
+803112,Čebelarska,203102,Kodrova
+803122,Plešičeva,203152,Žito
+804172,Andreja Bitenca,203171,Nove Jarše
+804181,Pržan,,
+----------------------------------------
+7/7L,Letališka - Pržan,7/7L,Pržan - Letališka
+204051,Letališka-obračališče,804181,Pržan
+204041,Letališka,804171,Andreja Bitenca
+204031,Rog,803121,Plešičeva
+204021,GZL,803111,Čebelarska
+204011,Leskoškova,803101,Tržnica Koseze
+203191,Yulon,803091,Zgornja Šiška
+203181,Bratislavska,802041,Bolnica P. Držaja
+203161,Nove Jarše-Šmartinska,802031,Na jami
+203151,Žito,802011,Stara cerkev
+203101,Kodrova,801011,Tivoli
+203091,Jarše,700011,Kolizej
+203041,Šola Jarše,600011,Bavarski dvor (Korabar)
+203011,Pokopališka,100022,Razstavišče
+202061,Žale,101032,Bežigrad
+202031,Savske stolpnice,202022,Prekmurska
+202021,Prekmurska,202032,Savske stolpnice
+101031,Bežigrad,202062,Žale
+100021,Razstavišče,203012,Pokopališka
+600012,Bavarski dvor (Kozolec),203042,Šola Jarše
+700012,Hotel Lev,203092,Jarše
+801012,Tivoli,203102,Kodrova
+802012,Stara cerkev,203152,Žito
+802032,Na jami,203171,Nove Jarše
+802042,Bolnica P. Držaja,203182,Bratislavska
+803092,Zgornja Šiška,203192,Yulon
+803102,Tržnica Koseze,204012,Leskoškova
+803112,Čebelarska,204022,GZL
+803122,Plešičeva,204032,Rog
+804172,Andreja Bitenca,204042,Letališka
+804181,Pržan,204051,Letališka-obračališče
+----------------------------------------
+8,Gameljne - Brnčičeva,8,Brnčičeva - Gameljne
+104221,Gameljne,204121,Brnčičeva
+104211,Rašica,204111,Slovenijales
+104201,Zg. Gameljne,104091,Cesta na Brod
+104191,Šmartno,104081,Obrtna cona
+804151,Tacen,104071,Šlandrova
+804141,Tacenski most,104061,Elma
+804111,Ob daljnovodu,104051,Sava
+804101,Tabor,104031,Ježica
+804091,Na klancu,103131,Ruski car
+804081,Kosmačeva,103101,Stožice
+804041,Šentvid,103071,Smelt
+804031,Podgora,103031,AMZS
+804021,Prušnikova,102081,Mercator
+804161,IMP,102041,Stadion
+803071,Tehnounion,101051,Astra
+803061,Ljubljanske brigade,100021,Razstavišče
+803051,Litostrojska,600012,Bavarski dvor (Kozolec)
+803011,Slovenija avto,700012,Hotel Lev
+802021,Kino Šiška,801012,Tivoli
+802011,Stara cerkev,802012,Stara cerkev
+801011,Tivoli,802022,Kino Šiška
+700011,Kolizej,803012,Slovenija avto
+600011,Bavarski dvor (Korabar),803052,Litostrojska
+100022,Razstavišče,803062,Ljubljanske brigade
+101052,Astra,803072,Tehnounion
+102042,Stadion,804162,IMP
+102082,Mercator,804022,Prušnikova
+103032,AMZS,804032,Podgora
+103072,Smelt,804042,Šentvid
+103102,Stožice,804082,Kosmačeva
+103132,Ruski car,804092,Na klancu
+104032,Ježica,804102,Tabor
+104054,Sava,804112,Ob daljnovodu
+104062,Elma,804142,Tacenski most
+104072,Šlandrova,804152,Tacen
+104082,Obrtna cona,104192,Šmartno
+104092,Cesta na Brod,104202,Zg. Gameljne
+204112,Slovenijales,104212,Rašica
+204121,Brnčičeva,104221,Gameljne
+----------------------------------------
+9,Štepanjsko naselje - Trnovo,9,Trnovo - Štepanjsko naselje
+303043,Štepanjsko naselje,602121,T rnovo
+403051,Emona,603081,Veliki štradon
+403043,Štepanja vas,603071,Pot na Rakovo jelšo
+403021,Kodeljevo,603061,Murgle
+303021,Zaloška,602093,Ziherlova
+303011,Tržnica Moste,602071,Mirje
+402041,Bolnica,602021,Drama
+402031,Klinični center,601011,Pošta
+402021,Poliklinika,600011,Bavarski dvor (Korabar)
+301011,Friškovec,300012,Kolodvor
+300011,Kolodvor,301012,Friškovec
+600012,Bavarski dvor (Kozolec),402022,Poliklinika
+600022,Ajdovščina,402032,Klinični center
+601012,Konzorcij,402042,Bolnica
+602022,Drama,303012,Tržnica Moste
+602072,Mirje,303032,Ob sotočju
+602092,Ziherlova,403022,Kodeljevo
+603062,Murgle,403042,Štepanja vas
+603072,Pot na Rakovo jelšo,403052,Emona
+603082,Veliki štradon,303043,Štepanjsko naselje
+602121,Trnovo,,
+----------------------------------------
+11,Ježica - Zalog,11,Zalog - Ježica
+104033,Ježica,204211,Zalog
+103131,Ruski car,204201,Saturnus
+103101,Stožice,204191,Zeleni gaj
+103071,Smelt,204181,Zadružni dom
+103031,AMZS,304131,Silos
+102081,Mercator,304111,Petrol
+102041,Stadion,304091,Cesta na Vevče
+101051,Astra,304071,Polje
+100021,Razstavišče,304061,Studenec
+600012,Bavarski dvor (Kozolec),304041,Chengdujska
+600022,Ajdovščina,304021,Osenjakova
+601012,Konzorcij,303061,Archinetova
+602022,Drama,303051,Pot na Fužine
+602062,Križanke,303021,Zaloška
+602102,Gornji trg,303011,Tržnica Moste
+602112,Privoz,402041,Bolnica
+502032,Streliška,402031,Klinični center
+502024,Roška,502021,Roška
+402032,Klinični center,502031,Streliška
+402042,Bolnica,602111,Privoz
+303012,Tržnica Moste,602101,Gornji trg
+303024,Zaloška,602061,Križanke
+303052,Pot na Fužine,602021,Drama
+303062,Archinetova,601011,Pošta
+304022,Osenjakova,600011,Bavarski dvor (Korabar)
+304042,Chengdujska,100022,Razstavišče
+304062,Studenec,101052,Astra
+304072,Polje,102042,Stadion
+304092,Cesta na Vevče,102082,Mercator
+304112,Petrol,103032,AMZS
+304132,Silos,103072,Smelt
+204182,Zadružni dom,103102,Stožice
+204192,Zeleni gaj,103132,Ruski car
+204211,Zalog,104033,Ježica
+----------------------------------------
+N11,Bavarski dvor - Zalog,N11,Zalog - Bavarski dvor
+600012,Bavarski dvor (Kozolec),204211,Zalog
+600022,Ajdovščina,204201,Saturnus
+601012,Konzorcij,204191,Zeleni gaj
+602022,Drama,204181,Zadružni dom
+602062,Križanke,304131,Silos
+602102,Gornji trg,304111,Petrol
+602112,Privoz,304091,Cesta na Vevče
+502032,Streliška,304071,Polje
+502024,Roška,304061,Studenec
+402032,Klinični center,304041,Chengdujska
+402042,Bolnica,304021,Osenjakova
+303012,Tržnica Moste,303061,Archinetova
+303024,Zaloška,303051,Pot na Fužine
+303052,Pot na Fužine,303021,Zaloška
+303062,Archinetova,303011,Tržnica Moste
+304022,Osenjakova,402041,Bolnica
+304042,Chengdujska,402031,Klinični center
+304062,Studenec,502021,Roška
+304072,Polje,502031,Streliška
+304092,Cesta na Vevče,602111,Privoz
+304112,Petrol,602101,Gornji trg
+304132,Silos,602061,Križanke
+204182,Zadružni dom,602021,Drama
+204192,Zeleni gaj,601011,Pošta
+204211,Zalog,700012,Hotel Lev
+,,600012,Bavarski dvor (Kozolec)
+----------------------------------------
+11B,Bežigrad - Zalog,11B,Zalog - Bežigrad
+201011,Železna,204211,Zalog
+101031,Bežigrad,204201,Saturnus
+100021,Razstavišče,204191,Zeleni gaj
+600012,Bavarski dvor (Kozolec),204181,Zadružni dom
+600022,Ajdovščina,304131,Silos
+601012,Konzorcij,304111,Petrol
+602022,Drama,304091,Cesta na Vevče
+602062,Križanke,304071,Polje
+602102,Gornji trg,304061,Studenec
+602112,Privoz,304041,Chengdujska
+502032,Streliška,304021,Osenjakova
+502024,Roška,303061,Archinetova
+402032,Klinični center,303051,Pot na Fužine
+402042,Bolnica,303021,Zaloška
+303012,Tržnica Moste,303011,Tržnica Moste
+303024,Zaloška,402041,Bolnica
+303052,Pot na Fužine,402031,Klinični center
+303062,Archinetova,502021,Roška
+304022,Osenjakova,502031,Streliška
+304042,Chengdujska,602111,Privoz
+304062,Studenec,602101,Gornji trg
+304072,Polje,602061,Križanke
+304092,Cesta na Vevče,602021,Drama
+304112,Petrol,601011,Pošta
+304132,Silos,600011,Bavarski dvor (Korabar)
+204182,Zadružni dom,100012,Navje
+204192,Zeleni gaj,201011,Železna
+204211,Zalog,,
+----------------------------------------
+12,Bežigrad - Vevče,12,Vevče - Bežigrad
+201011,Železna,304101,Vevče
+101031,Bežigrad,304091,Cesta na Vevče
+100021,Razstavišče,304074,Polje
+300012,Kolodvor,304082,Polje-kolodvor
+301012,Friškovec,204102,Novo Polje
+202012,Viadukt,204083,Zadobrova
+202044,Središka,204071,Sneberje
+202082,Flajšmanova,204061,Hrastje
+203042,Šola Jarše,203161,Nove Jarše-Šmartinska
+203092,Jarše,203151,Žito
+203102,Kodrova,203101,Kodrova
+203152,Žito,203091,Jarše
+204062,Hrastje,203041,Šola Jarše
+204072,Sneberje,202043,Središka
+204082,Zadobrova,202011,Viadukt
+204101,Novo Polje,301011,Friškovec
+304081,Polje-kolodvor,300011,Kolodvor
+304073,Polje,100012,Navje
+304092,Cesta na Vevče,201011,Železna
+304101,Vevče,,
+----------------------------------------
+13,Center Stožice - Sostro,13,Sostro - Center Stožice
+103173,Center Stožice,404091,Sostro
+103191,Božičeva,404081,Križišče Sostro
+102091,Kardeljeva ploščad,404071,Cesta v Zavoglje
+102031,Gasilska brigada,404061,Zadvor
+101031,Bežigrad,404051,KPL
+101031,Bežigrad,404041,Pošta Dobrunje
+100021,Razstavišče,404031,Dobrunje
+700011,Kolizej,404021,Cesta v Bizovik
+600032,Dalmatinova,404011,Hrušica
+500012,Turist,403061,Rast
+501022,Zmajski most,403051,Emona
+502012,Poljanska,403041,Štepanja vas
+502014,Ambrožev trg,403031,Pod Golovcem
+502022,Roška,402061,Gornje Poljane
+402062,Gornje Poljane,502013,Ambrožev trg
+403032,Pod Golovcem,502011,Poljanska
+403042,Štepanja vas,501021,Zmajski most
+403052,Emona,500011,Tavčarjeva
+403062,Rast,600011,Bavarski dvor (Korabar)
+404012,Hrušica,100012,Navje
+404022,Cesta v Bizovik,201011,Železna
+404032,Dobrunje,101034,Kržičeva
+404042,Pošta Dobrunje,102032,Gasilska brigada
+404052,KPL,102092,Kardeljeva ploščad
+404062,Zadvor,103192,Božičeva
+404072,Cesta v Zavoglje,103182,Titova
+404082,Križišče Sostro,103173,Center Stožice
+404091,Sostro,,
+----------------------------------------
+14,Savlje - Vrhovci,14,Vrhovci - Savlje
+104011,Savlje,704031,Vrhovci
+104021,Kališnikov trg,704021,Brdo
+103121,Čerinova,703061,Preval
+103111,7. septembra,703051,Podmornica
+103091,Gorjančeva,703041,Viško polje
+103061,Pohorskega bataljona,703031,Jamnikarjeva
+103021,Brinje,703021,Cesta XV
+102071,Vodovodna,703011,Rožna dolina
+102051,Podmilščakova,702021,Študentsko naselje
+101061,Bratov Židan,702011,Pod Rožnikom
+101021,Parmova,602011,Cankarjev dom
+101011,Hranilniška,601011,Pošta
+100021,Razstavišče,600011,Bavarski dvor (Korabar)
+600012,Bavarski dvor (Kozolec),100022,Razstavišče
+600022,Ajdovščina,101012,Hranilniška
+601012,Konzorcij,101022,Parmova
+602012,Cankarjev dom,101062,Bratov Židan
+702012,Pod Rožnikom,102052,Podmilščakova
+702022,Študentsko naselje,102072,Vodovodna
+703012,Rožna dolina,103022,Brinje
+703022,Cesta XV,103062,Pohorskega bataljona
+703032,Jamnikarjeva,103092,Gorjančeva
+703042,Viško polje,103112,7. septembra
+703052,Podmornica,103122,Čerinova
+703062,Preval,104022,Kališnikov trg
+704022,Brdo,104011,Savlje
+704031,Vrhovci,,
+----------------------------------------
+14B,Savlje - Bokalce,14B,Bokalce - Savlje
+104011,Savlje,704041,Bokalce
+104021,Kališnikov trg,704021,Brdo
+103121,Čerinova,703061,Preval
+103111,7. septembra,703051,Podmornica
+103091,Gorjančeva,703041,Viško polje
+103061,Pohorskega bataljona,703031,Jamnikarjeva
+103021,Brinje,703021,Cesta XV
+102071,Vodovodna,703011,Rožna dolina
+102051,Podmilščakova,702021,Študentsko naselje
+101061,Bratov Židan,702011,Pod Rožnikom
+101021,Parmova,602011,Cankarjev dom
+101011,Hranilniška,601011,Pošta
+100021,Razstavišče,600011,Bavarski dvor (Korabar)
+600012,Bavarski dvor (Kozolec),100022,Razstavišče
+600022,Ajdovščina,101012,Hranilniška
+601012,Konzorcij,101022,Parmova
+602012,Cankarjev dom,101062,Bratov Židan
+702012,Pod Rožnikom,102052,Podmilščakova
+702022,Študentsko naselje,102072,Vodovodna
+703012,Rožna dolina,103022,Brinje
+703022,Cesta XV,103062,Pohorskega bataljona
+703032,Jamnikarjeva,103092,Gorjančeva
+703042,Viško polje,103112,7. septembra
+703052,Podmornica,103122,Čerinova
+703062,Preval,104022,Kališnikov trg
+704024,Brdo,104011,Savlje
+704041,Bokalce,,
+----------------------------------------
+15,Stanežiče - Zgornje Pirniče,15,Zgornje Pirniče - Stanežiče
+804361,Stanežiče,805023,Medvode
+804351,Dvor,835021,Komandata Staneta
+804341,Oval,835011,Verje
+804051,Vižmarje,815041,Zg. Pirniče Mihovec
+804082,Kosmačeva,815031,Zg. Pirniče
+804092,Na klancu,815021,Sp. Pirniče
+804104,Tabor,815101,Gostilna Kovač
+804322,V Dovjež,815011,Vi krče
+804312,Kurirska,815111,Kajakaška
+804122,Brod,804141,Tacenski most
+804144,Tacenski most,804121,Brod
+815112,Kajakaška,804311,Kurirska
+815012,Vi krče,804321,V Dovjež
+815102,Gostilna Kovač,804101,Tabor
+815022,Sp. Pirniče,804091,Na klancu
+815032,Zg. Pirniče,804081,Kosmačeva
+815041,Zg. Pirniče Mihovec,804342,Oval
+835012,Verje,804352,Dvor
+835022,Komandata Staneta,804361,Stanežiče
+805023,Medvode,,
+----------------------------------------
+18,Kino Šiška - Tovarna Lek,18,Tovarna Lek - Kino Šiška
+802022,Kino Šiška,103051,Tovarna Lek
+803012,Slovenija avto,103011,Toplarna
+803052,Litostrojska,102061,Mostovna
+802062,Tiki,802061,Tiki
+102062,Mostovna,802051,Drenikova
+103012,Toplarna,802022,Kino Šiška
+103051,Tovarna Lek,,
+----------------------------------------
+19B,Tomačevo - Jezero,19B,Jezero - Tomačevo
+203081,Tomačevo,745061,Jezero
+203071,Nove Žale,745101,OŠ Jezero
+203231,Na Žale,745051,Podpeč
+203031,Tomačevska,614091,Snoj
+203211,Kranjčeva,614081,Kozler
+202031,Savske stolpnice,614071,Lipe
+102021,Topniška,614061,Rutar
+101051,Astra,614051,Zidarjevec
+100021,Razstavišče,614041,Capuder
+600012,Bavarski dvor (Kozolec),614031,Dornig
+600022,Ajdovščina,614021,Brglezov štradon
+601012,Konzorcij,614011,Plečnikova cerkev
+602022,Drama,604023,Barje
+602072,Mirje,604011,Iški most
+602092,Ziherlova,603111,Lahova pot
+603064,Murgle,603101,Ilovica
+603132,Hladnikova,603091,Livada
+603092,Livada,603131,Hladnikova
+603102,Ilovica,603061,Murgle
+603112,Lahova pot,602093,Ziherlova
+604012,Iški most,602071,Mirje
+604022,Barje,602021,Drama
+614012,Plečnikova cerkev,601011,Pošta
+614022,Brglezov štradon,600011,Bavarski dvor (Korabar)
+614032,Dornig,100022,Razstavišče
+614042,Capuder,101052,Astra
+614052,Zidarjevec,102022,Topniška
+614062,Rutar,202032,Savske stolpnice
+614072,Lipe,203032,Tomačevska
+614082,Kozler,203232,Na Žale
+614092,Snoj,203072,Nove Žale
+745052,Podpeč,203081,Tomačevo
+745061,Jezero,,
+----------------------------------------
+19I,Tomačevo - Iška vas,19I,Iška vas - Tomačevo
+203081,Tomačevo,626011,Iška vas obračališče
+203071,Nove Žale,625051,Iška vas
+203231,Na Žale,625061,Iška vas šola
+203031,Tomačevska,625041,Kot
+203211,Kranjčeva,625031,Staje
+202031,Savske stolpnice,625021,Ig
+102021,Topniška,605011,Ig AP
+101051,Astra,605081,Ig Petrol
+100021,Razstavišče,604041,Havptmance
+600012,Bavarski dvor (Kozolec),604061,Ižica
+600022,Ajdovščina,604051,Pri Maranzu
+601012,Konzorcij,604023,Barje
+602022,Drama,604011,Iški most
+602072,Mirje,603111,Lahova pot
+602092,Ziherlova,603101,Ilovica
+603064,Murgle,603091,Livada
+603132,Hladnikova,603131,Hladnikova
+603092,Livada,603061,Murgle
+603102,Ilovica,602093,Ziherlova
+603112,Lahova pot,602071,Mirje
+604012,Iški most,602021,Drama
+604022,Barje,601011,Pošta
+604052,Pri Maranzu,600011,Bavarski dvor (Korabar)
+604062,Ižica,100022,Razstavišče
+604042,Havptmance,101052,Astra
+605082,Ig Petrol,102022,Topniška
+605012,Ig AP,202032,Savske stolpnice
+625022,Ig,203032,Tomačevska
+625032,Staje,203232,Na Žale
+625042,Kot,203072,Nove Žale
+625062,Iška vas šola,203081,Tomačevo
+625052,Iška vas,,
+626011,Iška vas obračališče,,
+----------------------------------------
+20,Fužine - Nove Stožice,20,Nove Stožice - Fužine
+304051,Fužine,103081,Nove Stožice
+304031,Rusjanov trg,103162,Maroltova
+304011,Preglov trg,103041,Puhova
+303071,Brodarjev trg,102091,Kardeljeva ploščad
+303051,Pot na Fužine,102031,Gasilska brigada
+303021,Zaloška,101031,Bežigrad
+303011,Tržnica Moste,100021,Razstavišče
+402041,Bolnica,600012,Bavarski dvor (Kozolec)
+402031,Klinični center,600022,Ajdovščina
+502013,Ambrožev trg,601012,Konzorcij
+502011,Poljanska,602022,Drama
+501032,Krekov trg,602062,Križanke
+602101,Gornji trg,602102,Gornji trg
+602061,Križanke,501031,Krekov trg
+602021,Drama,502012,Poljanska
+601011,Pošta,502014,Ambrožev trg
+600011,Bavarski dvor (Korabar),502024,Roška
+100022,Razstavišče,402032,Klinični center
+101032,Bežigrad,402042,Bolnica
+101034,Kržičeva,303012,Tržnica Moste
+102032,Gasilska brigada,303024,Zaloška
+102092,Kardeljeva ploščad,303072,Brodarjev trg
+103042,Puhova,304012,Preglov trg
+103161,Maroltova,304032,Rusjanov trg
+103081,Nove Stožice,304051,Fužine
+----------------------------------------
+20Z,Zalog - Nove Stožice,20Z,Nove Stožice - Zalog
+204211,Zalog,103081,Nove Stožice
+204201,Saturnus,103162,Maroltova
+204191,Zeleni gaj,103041,Puhova
+204181,Zadružni dom,102091,Kardeljeva ploščad
+304131,Silos,102031,Gasilska brigada
+304111,Petrol,101031,Bežigrad
+304091,Cesta na Vevče,100021,Razstavišče
+304071,Polje,600012,Bavarski dvor (Kozolec)
+304061,Studenec,600022,Ajdovščina
+304051,Fužine,601012,Konzorcij
+304031,Rusjanov trg,602022,Drama
+304011,Preglov trg,602062,Križanke
+303071,Brodarjev trg,602102,Gornji trg
+303051,Pot na Fužine,501031,Krekov trg
+303021,Zaloška,502012,Poljanska
+303011,Tržnica Moste,502014,Ambrožev trg
+402041,Bolnica,502024,Roška
+402031,Klinični center,402032,Klinični center
+502013,Ambrožev trg,402042,Bolnica
+502011,Poljanska,303012,Tržnica Moste
+501032,Krekov trg,303024,Zaloška
+602101,Gornji trg,303072,Brodarjev trg
+602061,Križanke,304012,Preglov trg
+602021,Drama,304032,Rusjanov trg
+601011,Pošta,304051,Fužine
+600011,Bavarski dvor (Korabar),304042,Chengdujska
+100022,Razstavišče,304062,Studenec
+101032,Bežigrad,304072,Polje
+101034,Kržičeva,304092,Cesta na Vevče
+102032,Gasilska brigada,304112,Petrol
+102092,Kardeljeva ploščad,304132,Silos
+103042,Puhova,204182,Zadružni dom
+103161,Maroltova,204192,Zeleni gaj
+103081,Nove Stožice,204211,Zalog
+----------------------------------------
+21,Beričevo - Ježica,21,Ježica - Beričevo
+204171,Beričevo,104033,Ježica
+204161,Reaktor,104052,Sava
+204151,Šentjakob,104102,Kolodvor Črnuče
+204141,Belinka,104113,Primožičeva
+204131,Nadgorica,104122,Polanškova
+104181,Ježa,104132,Pot v Smrečje
+104171,Zasavska,104142,Pot v Hrastovec
+104151,OŠ Maksa Pečarja,104152,OŠ Maksa Pečarja
+104141,Pot v Hrastovec,104172,Zasavska
+104131,Pot v Smrečje,104182,Ježa
+104121,Polanškova,204132,Nadgorica
+104111,Rogovile,204142,Belinka
+104101,Kolodvor Črnuče,204152,Šentjakob
+104051,Sava,204162,Reaktor
+104033,Ježica,204171,Beričevo
+----------------------------------------
+22,Fužine - Kamna Gorica,22,Kamna Gorica - Fužine
+304051,Fužine,803181,Kamna Gorica
+304031,Rusjanov trg,803171,Spar
+304011,Preglov trg,803161,Bratov Babnik
+303071,Brodarjev trg,803141,Koseze
+303051,Pot na Fužine,803131,Bratov Učakar
+303022,Kajuhova,803081,Kneza Koclja
+203061,Tovorni kolodvor,803011,Slovenija avto
+203041,Šola Jarše,802021,Kino Šiška
+203011,Pokopališka,802052,Drenikova
+202061,Žale,102012,Samova
+202031,Savske stolpnice,101051,Astra
+202021,Prekmurska,101032,Bežigrad
+101031,Bežigrad,202022,Prekmurska
+101052,Astra,202032,Savske stolpnice
+102011,Samova,202062,Žale
+802051,Drenikova,203012,Pokopališka
+802022,Kino Šiška,203044,Šola Jarše
+803016,Šišenska,203062,Tovorni kolodvor
+803082,Kneza Koclja,303024,Zaloška
+803132,Bratov Učakar,303072,Brodarjev trg
+803142,Koseze,304012,Preglov trg
+803162,Bratov Babnik,304032,Rusjanov trg
+803172,Spar,304051,Fužine
+803181,Kamna Gorica,,
+----------------------------------------
+23,Kolodvor - ZOO,23,ZOO- Kolodvor
+300011,Kolodvor,703131,Živalski vrt
+600012,Bavarski dvor (Kozolec),703121,Živalski vrt
+600022,Ajdovščina,602011,Cankarjev dom
+601012,Konzorcij,601011,Pošta
+602012,Cankarjev dom,600011,Bavarski dvor (Korabar)
+703122,Živalski vrt,300012,Kolodvor
+703131,Živalski vrt,300011,Kolodvor
+----------------------------------------
+24,Kodeljevo - Bizovik,24,Bizovik - Kodeljevo
+403025,Kodeljevo - obračališče,404123,Bizovik
+403022,Kodeljevo,404111,Hruševska
+403042,Štepanja vas,404101,Krožna pot
+403072,Bilečanska,403071,Bilečanska
+404102,Krožna pot,403043,Štepanja vas
+404112,Hruševska,403023,Kodeljevo
+404121,Bizovik,403025,Kodeljevo - obračališče
+404123,Bizovik,,
+----------------------------------------
+25,Medvode - Zadobrova,25,Zadobrova - Medvode
+805041,Medvode naselje,204081,Zadobrova
+805031,Novo naselje,204101,Novo Polje
+805021,Medvode,304081,Polje-kolodvor
+805011,Medvoška a.p.,304071,Polje
+804071,Medno,304061,Studenec
+804061,Stanežiče,304031,Rusjanov trg
+804041,Šentvid,304011,Preglov trg
+804031,Podgora,303071,Brodarjev trg
+804021,Prušnikova,303051,Pot na Fužine
+804011,Trata,303021,Zaloška
+803041,Dravlje,303011,Tržnica Moste
+803031,Kompas,402041,Bolnica
+803021,Avtomontaža,402031,Klinični center
+803011,Slovenija avto,402021,Poliklinika
+802021,Kino Šiška,301011,Friškovec
+802011,Stara cerkev,300011,Kolodvor
+801011,Tivoli,600012,Bavarski dvor (Kozolec)
+700011,Kolizej,700012,Hotel Lev
+600011,Bavarski dvor (Korabar),801012,Tivoli
+300012,Kolodvor,802012,Stara cerkev
+301012,Friškovec,802022,Kino Šiška
+402022,Poliklinika,803014,Remiza
+402032,Klinični center,803022,Avtomontaža
+402042,Bolnica,803032,Kompas
+303012,Tržnica Moste,803042,Dravlje
+303024,Zaloška,804012,Trata
+303072,Brodarjev trg,804022,Prušnikova
+304012,Preglov trg,804032,Podgora
+304032,Rusjanov trg,804042,Šentvid
+304042,Chengdujska,804062,Stanežiče
+304062,Studenec,804072,Medno
+304074,Polje,805012,Medvoška a.p.
+304082,Polje-kolodvor,805022,Medvode
+204102,Novo Polje,805032,Novo naselje
+204081,Zadobrova,805041,Medvode naselje
+----------------------------------------
+27,Letališka - BTC - NS Rudnik,27,NS Rudnik - BTC - Letališka
+204051,Letališka-obračališče,504061,NS Rudnik
+204041,Letališka,504051,NS Rudnik
+204031,Rog,504121,Bobrova
+204021,GZL,504041,Jurčkova
+204011,Leskoškova,503051,Mihov štradon
+203191,Yulon,603151,Goluhova
+203141,BTC-Emporium,603093,Galjevica
+203131,BTC-Kolosej,603121,Ižanska
+203121,BTC-tržnica,503011,Strelišče
+203111,BTC-uprava,602111,Privoz
+203101,Kodrova,602101,Gornji trg
+203091,Jarše,602061,Križanke
+203041,Šola Jarše,602021,Drama
+202043,Središka,601011,Pošta
+202011,Viadukt,600011,Bavarski dvor (Korabar)
+301011,Friškovec,300012,Kolodvor
+300011,Kolodvor,301012,Friškovec
+600012,Bavarski dvor (Kozolec),202012,Viadukt
+600022,Ajdovščina,202044,Središka
+601012,Konzorcij,202082,Flajšmanova
+602022,Drama,203042,Šola Jarše
+602062,Križanke,203092,Jarše
+602102,Gornji trg,203112,BTC-uprava
+602112,Privoz,203122,BTC-tržnica
+503014,Orlova,203132,BTC-Kolosej
+603122,Ižanska,203142,BTC-Emporium
+603094,Galjevica,203192,Yulon
+603152,Goluhova,204012,Leskoškova
+503052,Mihov štradon,204022,GZL
+504042,Jurčkova,204032,Rog
+504122,Bobrova,204042,Letališka
+504052,NS Rudnik,204051,Letal iš ka-obračal išče
+504061,NS Rudnik,,
+----------------------------------------
+27K,Bavarski dvor - Kolosej,27K,Kolosej - Bavarski dvor
+701012,Tivolska,203131,BTC-Kolosej
+601011,Pošta,203121,BTC-tržnica
+600011,Bavarski dvor (Korabar),203111,BTC-uprava
+300012,Kolodvor,203101,Kodrova
+301012,Friškovec,203091,Jarše
+202012,Viadukt,203041,Šola Jarše
+202044,Središka,202043,Središka
+202082,Flajšmanova,202011,Viadukt
+203042,Šola Jarše,301011,Friškovec
+203092,Jarše,300011,Kolodvor
+203112,BTC-uprava,600012,Bavarski dvor (Kozolec)
+203122,BTC-tržnica,701012,Tivolska
+203132,BTC-Kolosej,,
+203131,BTC-Kolosej,,
+----------------------------------------
+28,Kodeljevo - Mali Lipoglav,28,Mali Lipoglav - Kodeljevo
+403025,Kodeljevo - obračališče,415061,Mali Lipoglav
+403022,Kodeljevo,415071,Pri Dogonivar
+403042,Štepanja vas,415051,Pance K.
+403052,Emona,415081,Primožev ovinek
+403062,Rast,415041,Selo pri Pancah K.
+404012,Hrušica,415031,Veliki Lipoglav
+404022,Cesta v Bizovik,425011,Javor pri Sostrem K.
+404121,Bizovik,415091,Pri Dolencu
+404132,Ljubljana Dobrunje,415021,Podlipoglav
+404142,Dobrunje pod Urhom,415011,Sadinja vas
+404152,Ljubljana Zadvor,404093,Sostro
+404162,OŠ Sostro,404161,OŠ Sostro
+404092,Sostro,404151,Ljubljana Zadvor
+415012,Sadinja vas,404141,Dobrunje pod Urhom
+415022,Podlipoglav,404131,Ljubljana Dobrunje
+415092,Pri Dolencu,404123,Bizovik
+425012,Javor pri Sostrem K.,404021,Cesta v Bizovik
+415032,Veliki Lipoglav,404011,Hrušica
+415042,Selo pri Pancah K.,403061,Rast
+415082,Primožev ovinek,403051,Emona
+415052,Pance K.,403043,Štepanja vas
+415072,Pri Dogonivar,403025,Kodeljevo - obračališče
+415061,Mali Lipoglav,,
+----------------------------------------
+29,Kodeljevo - Tuji Grm,29,Tuji Grm - Kodeljevo
+403025,Kodeljevo - obračališče,406081,Tuji Grm
+303024,Zaloška,406071,Lanišče
+303052,Pot na Fužine,406061,Volavlje
+303062,Archinetova,406051,Smrekarjevo
+304022,Osenjakova,406041,Prežganje Š.
+304042,Chengdujska,406031,Prežganje Š. K.
+304062,Studenec,406021,Trebeljevo
+304072,Polje,406011,Šemnikar
+304092,Cesta na Vevče,405061,Besnica kamnolom
+304101,Vevče,405071,Zg. Besnica
+304102,Lj. Vevče Papirnica,405051,Besnica ambulanta
+404062,Zadvor,405041,Blaževo
+404072,Cesta v Zavoglje,405031,Besnica/Lj.Š.
+404084,Križišče Sostro,405021,Besnica/Lj.
+405012,Javor/K.,405011,Javor/K.
+405022,Besnica/Lj.,404083,Križišče Sostro
+405032,Besnica/Lj.Š.,404071,Cesta v Zavoglje
+405042,Blaževo,404061,Zadvor
+405052,Besnica ambulanta,304103,Lj. Vevče Papirnica
+405072,Zg. Besnica,304101,Vevče
+405062,Besnica kamnolom,304091,Cesta na Vevče
+406012,Šemnikar,304071,Polje
+406022,Trebeljevo,304061,Studenec
+406032,Prežganje Š. K.,304041,Chengdujska
+406042,Prežganje Š.,304021,Osenjakova
+406052,Smrekarjevo,303061,Archinetova
+406062,Volavlje,303051,Pot na Fužine
+406072,Lanišče,303032,Ob sotočju
+406081,Tuji Grm,403022,Kodeljevo
+,,403025,Kodeljevo - obračališče
+----------------------------------------
+29,Kodeljevo - (OŠ Sostro) - Tuji Grm,29,Tuji Grm - (OŠ Sostro) - Kodeljevo
+403025,Kodeljevo - obračališče,406081,Tuji Grm
+303024,Zaloška,406071,Lanišče
+303052,Pot na Fužine,406061,Volavlje
+303062,Archinetova,406051,Smrekarjevo
+304022,Osenjakova,406041,Prežganje Š.
+304042,Chengdujska,406031,Prežganje Š. K.
+304062,Studenec,406021,T rebeljevo
+304072,Polje,406011,Šemnikar
+304092,Cesta na Vevče,405061,Besnica kamnolom
+304101,Vevče,405071,Zg. Besnica
+304102,Lj. Vevče Papirnica,405051,Besnica ambulanta
+404062,Zadvor,405041,Blaževo
+404162,OŠ Sostro,405031,Besnica/Lj.Š.
+404084,Križišče Sostro,405021,Besnica/Lj.
+405012,Javor/K.,405011,Javor/K.
+405022,Besnica/Lj.,404083,Križišče Sostro
+405032,Besnica/Lj.Š.,404161,OŠ Sostro
+405042,Blaževo,404061,Zadvor
+405052,Besnica ambulanta,304103,Lj. Vevče Papirnica
+405072,Zg. Besnica,304101,Vevče
+405062,Besnica kamnolom,304091,Cesta na Vevče
+406012,Šemnikar,304071,Polje
+406022,Trebeljevo,304061,Studenec
+406032,Prežganje Š. K.,304041,Chengdujska
+406042,Prežganje Š.,304021,Osenjakova
+406052,Smrekarjevo,303061,Archinetova
+406062,Volavlje,303051,Pot na Fužine
+406072,Lanišče,303032,Ob sotočju
+406081,Tuji Grm,403022,Kodeljevo
+,,403025,Kodeljevo - obračališče
+----------------------------------------
+30,Medvode - Zapoge,30,Zapoge - Medvode
+805022,Medvode,826011,Vodice
+835022,Komandata Staneta,825111,Zapoge obračališče
+805052,Medvode na klancu,825081,Zapoge
+805062,Zbiljski Gaj,816021,Hraše vzhod
+805072,Zbilje K,816011,Hraše center
+805082,Zbilje jezero,815131,Hraše zahod
+805092,Zbilje barka,815091,Valburga
+815122,Smlednik šola,815121,Smlednik šola
+815092,Valburga,805091,Zbilje barka
+815132,Hraše zahod,805081,Zbilje jezero
+816012,Hraše center,805071,Zbilje K
+816022,Hraše vzhod,805061,Zbiljski Gaj
+825082,Zapoge,835031,Svetje
+825111,Zapoge obračališče,805021,Medvode
+826011,Vodice,,
+----------------------------------------
+60,AP Ljubljana - Vodice,60,Vodice - AP Ljubljana
+300013,AP Ljubljana,825031,Polje obračališe
+802022,Kino Šiška,826061,Vesca
+803014,Remiza,826101,Selo Mali Dunaj
+804012,Trata,826051,Selo pri Vodicah
+804042,Šentvid,826041,Utik
+104191,Šmartno,826031,Bukovica Anzel
+104194,Šmartno pod Š.G.,826021,Bukovica Plevevc
+825012,Povodje,826091,Vodice OŠ
+825022,Skaručna,826011,Vodice
+825031,Polje obračal iše,825111,Zapoge obračališče
+825042,Repnje Benk,825071,Dobruša lipa
+825052,Repnje samostan,825061,Repnje kapelica
+825062,Repnje kapelica,825051,Repnje samostan
+825072,Dobruša lipa,825041,Repnje Benk
+825111,Zapoge obračališče,825031,Polje obračališe
+826012,Vodice,825021,Skaručna
+826092,Vodice OŠ,825011,Povodje
+826022,Bukovica Plevevc,104193,Šmartno pod Š.G.
+826032,Bukovica Anzel,104192,Šmartno
+826042,Utik,804041,Šentvid
+826052,Selo pri Vodicah,804011,Trata
+826102,Selo Mali Dunaj,803011,Slovenija avto
+826062,Vesca,802021,Kino Šiška
+825031,Polje obračališe,300013,AP Ljubljana
+----------------------------------------
+60,AP Ljubljana - Vodice,60,Vodice - AP Ljubljana
+300013,AP Ljubljana,825031,Polje obračališe
+802022,Kino Šiška,826061,Vesca
+803014,Remiza,826101,Selo Mali Dunaj
+804012,Trata,826051,Selo pri Vodicah
+804042,Šentvid,826141,Šinkov Turn hrib
+104191,Šmartno,826131,Šinkov Turn
+104194,Šmartno pod Š.G.,826121,Koseze Stare
+825012,Povodje,826111,Koseze
+825022,Skaručna,826041,Utik
+825031,Polje obračališe,826031,Bukovica Anzel
+825042,Repnje Benk,826021,Bukovica Plevevc
+825052,Repnje samostan,826091,Vodice OŠ
+825062,Repnje kapelica,826011,Vodice
+825072,Dobruša lipa,825111,Zapoge obračališče
+825111,Zapoge obračališče,825071,Dobruša lipa
+826012,Vodice,825061,Repnje kapelica
+826092,Vodice OŠ,825051,Repnje samostan
+826022,Bukovica Plevevc,825041,Repnje Benk
+826032,Bukovica Anzel,825031,Polje obračališe
+826042,Utik,825021,Skaručna
+826112,Koseze,825011,Povodje
+826122,Koseze Stare,104193,Šmartno pod Š.G.
+826132,Šinkov Turn,104192,Šmartno
+826142,Šinkov Turn hrib,804041,Šentvid
+826052,Selo pri Vodicah,804011,Trata
+826102,Selo Mali Dunaj,803011,Slovenija avto
+826062,Vesca,802021,Kino Šiška
+825031,Polje obračališe,300013,AP Ljubljana
+----------------------------------------
+60,AP Ljubljana - Vodice,60,"Vodice - AP Ljubljana"
+300013,AP Ljubljana,826011,Vodice
+802022,Kino Šiška,825111,Zapoge obračališče
+803014,Remiza,825071,Dobruša lipa
+804012,Trata,825061,Repnje kapelica
+804042,Šentvid,825051,Repnje samostan
+104191,Šmartno,825041,Repnje Benk
+104194,Šmartno pod Š.G.,825031,Polje obračališe
+825012,Povodje,825021,Skaručna
+826081,Vojsko,825011,Povodje
+826061,Vesca,104193,Šmartno pod Š.G.
+826101,Selo Mali Dunaj,104192,Šmartno
+826051,Selo pri Vodicah,804041,Šentvid
+826141,Šinkov Turn hrib,804011,Trata
+826131,Šinkov T urn,803011,Slovenija avto
+826121,Koseze Stare,802021,Kino Šiška
+826111,Koseze,300013,AP Ljubljana
+826041,Utik,,
+826031,Bukovica Anzel,,
+826021,Bukovica Plevevc,,
+826091,Vodice OŠ,,
+826011,Vodice,,
+----------------------------------------
+60,AP Ljubljana - Vodice,60,Vodice - AP Ljubljana
+300013,AP Ljubljana,826011,Vodice
+802022,Kino Šiška,825111,Zapoge obračališče
+803014,Remiza,825071,Dobruša lipa
+804012,Trata,825061,Repnje kapelica
+804042,Šentvid,825051,Repnje samostan
+104191,Šmartno,825041,Repnje Benk
+104194,Šmartno pod Š.G.,825031,Polje obračališe
+825012,Povodje,825021,Skaručna
+826081,Vojsko,825011,Povodje
+826061,Vesca,104193,Šmartno pod Š.G.
+826101,Selo Mali Dunaj,104192,Šmartno
+826051,Selo pri Vodicah,804041,Šentvid
+826041,Utik,804011,Trata
+826031,Bukovica Anzel,803011,Slovenija avto
+826021,Bukovica Plevevc,802021,Kino Šiška
+826091,Vodice OŠ,300013,AP Ljubljana
+826011,Vodice,,
+----------------------------------------
+61,Vodice - Vojsko,61,Vojsko - Vodice
+826012,Vodice,826081,Vojsko
+826022,Bukovica Plevevc,826061,Vesca
+826032,Bukovica Anzel,826101,Selo Mali Dunaj
+826042,Utik,826051,Selo pri Vodicah
+826112,Koseze,826141,Šinkov Turn hrib
+826122,Koseze Stare,826131,Šinkov Turn
+826132,Šinkov Turn,826121,Koseze Stare
+826142,Šinkov Turn hrib,826111,Koseze
+826052,Selo pri Vodicah,826041,Utik
+826102,Selo Mali Dunaj,826031,Bukovica Anzel
+826062,Vesca,826021,Bukovica Plevevc
+826082,Vojsko,826091,Vodice OŠ
+,,826011,Vodice
